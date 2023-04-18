@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [O_o](https://your-solution-url.com)
-- Live Site URL: [^_^](https://your-live-site-url.com)
+- Solution URL: [O_o](https://github.com/Shadow-IO-oI/order-summary-component)
+- Live Site URL: [^_^](https://order-summary-component-eight-omega.vercel.app)
 
 ## Author
 
